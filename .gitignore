@@ -5,3 +5,4 @@ input
 *.class
 *.swp
 __pycache__/
+.idea
