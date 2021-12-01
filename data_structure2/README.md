@@ -1,4 +1,4 @@
-# Data Structre2 (자료구조2)
+# Data Structure2 (자료구조2)
 
 [메인으로 돌아가기](https://github.com/tony9402/baekjoon)
 
