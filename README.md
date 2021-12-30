@@ -6,7 +6,7 @@
 >
 > ~~총 958문제 → 2022년 5월달 안에 다 풀기 🔥~~
 
-## 당분간 dfs/bfs만 풀이
+# 당분간 dfs/bfs만 풀이
 
 [추천 문제집](https://ssu-gongdoli.tistory.com/8)
 
