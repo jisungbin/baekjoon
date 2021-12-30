@@ -8,9 +8,7 @@
 
 # 당분간 dfs/bfs만 풀이
 
-[[개념 및 추천 문제들]](https://covenant.tistory.com/132)
-
-[[추천 문제집]](https://www.acmicpc.net/workbook/view/1833) [[추천 문제집2]](https://www.acmicpc.net/workbook/view/1983) [[추천 문제집3]](https://ssu-gongdoli.tistory.com/8)
+[[추천 문제집]](https://covenant.tistory.com/147?category=874690) [[추천 문제집2]](https://www.acmicpc.net/workbook/view/1833) [[추천 문제집3]](https://www.acmicpc.net/workbook/view/1983) [[추천 문제집4]](https://ssu-gongdoli.tistory.com/8)
 
 ---
 
