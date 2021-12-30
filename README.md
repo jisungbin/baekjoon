@@ -5,8 +5,12 @@
 > [[algorithm 공부할거야!]](https://github.com/jisungbin/algorithm-study) [[알고리즘 풀이 코드 모음]](https://github.com/jisungbin/algorithm-code)
 >
 > ~~총 958문제 → 2022년 5월달 안에 다 풀기 🔥~~
->
-> **당분간 dfs/bfs만 풀이**
+
+## 당분간 dfs/bfs만 풀이
+
+[추천 문제집](https://ssu-gongdoli.tistory.com/8)
+
+---
 
 | 순번 | Tag                          | 태그                | 문제집    | 추천 문제 수 | 총 문제 수 |
 | :--: | :--------------------------: | :-----------------: | :------:  | :---------:  | :------: |
