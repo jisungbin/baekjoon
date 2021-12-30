@@ -3,12 +3,14 @@
 > `*` 붙은건 풀이 참고하여 풀은 문제
 >
 > [[algorithm 공부할거야!]](https://github.com/jisungbin/algorithm-study) [[알고리즘 풀이 코드 모음]](https://github.com/jisungbin/algorithm-code)
->
-> ~~총 958문제 → 2022년 5월달 안에 다 풀기 🔥~~
 
 # 당분간 dfs/bfs만 풀이
 
 [[추천 문제집]](https://covenant.tistory.com/147?category=874690) [[추천 문제집2]](https://www.acmicpc.net/workbook/view/1833) [[추천 문제집3]](https://www.acmicpc.net/workbook/view/1983) [[추천 문제집4]](https://ssu-gongdoli.tistory.com/8)
+
+### 목표
+
+- [ ] 2022년 1월 30일까지 누적 300 문제 풀기
 
 ---
 
