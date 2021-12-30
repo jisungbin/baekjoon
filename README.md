@@ -8,7 +8,7 @@
 
 [[추천 문제집]](https://covenant.tistory.com/147?category=874690) [[추천 문제집2]](https://www.acmicpc.net/workbook/view/1833) [[추천 문제집3]](https://www.acmicpc.net/workbook/view/1983) [[추천 문제집4]](https://ssu-gongdoli.tistory.com/8)
 
-### 목표
+# 목표
 
 - [ ] 2022년 1월 30일까지 누적 300 문제 풀기 (130문제 시작)
 
