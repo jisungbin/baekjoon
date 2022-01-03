@@ -10,7 +10,9 @@
 
 [[~~추천 문제집~~](https://covenant.tistory.com/147?category=874690) (전체 풀이 완료 - 12시간 소요)]
 
-[[추천 문제집2]](https://ssu-gongdoli.tistory.com/8) [[추천 문제집3]](https://www.acmicpc.net/workbook/view/1833) [[추천 문제집4]](https://www.acmicpc.net/workbook/view/1983)
+[[추천 문제집2](https://ssu-gongdoli.tistory.com/8) (전체 풀이 완료 - 19시간 소요)]
+
+[[추천 문제집3]](https://www.acmicpc.net/workbook/view/1833) [[추천 문제집4]](https://www.acmicpc.net/workbook/view/1983)
 
 # 목표
 
