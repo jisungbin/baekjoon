@@ -6,7 +6,7 @@
 
 ---
 
-# 당분간 dfs/bfs만 풀이 (2022. 01. ~)
+# dfs/bfs 문제집
 
 [[~~추천 문제집~~](https://covenant.tistory.com/147?category=874690) (전체 풀이 완료 - 12시간 소요)]
 
