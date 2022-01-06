@@ -24,9 +24,9 @@
 
 # 우선 풀이 순서
 
-1. 구현
-2. DP
-3. 그리디
+1. [구현](https://github.com/jisungbin/baekjoon/tree/doit/implementation)
+2. [DP](https://github.com/jisungbin/baekjoon/tree/doit/dynamic_programming_1)
+3. [그리디](https://github.com/jisungbin/baekjoon/tree/doit/greedy)
 
 ---
 
