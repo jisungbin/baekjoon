@@ -20,11 +20,11 @@
 
 # 실력 기록
 
-- 1월 4일: 실버는 무난하게 풀이 가능, 골드 4\~5 는 풀이 보면 이해 가능, 골 3\~ 은 풀이 봐도 이해 불가능
+- 1월 4일: 실버는 무난하게 풀이 가능, 골드 4\~5 는 풀이 보면 이해 가능, 골 3\~ 은 풀이 봐도 이해 불가능 **(트리 기준)**
 
 # 우선 풀이 순서
 
-1. [구현](https://github.com/jisungbin/baekjoon/tree/doit/implementation) -> 근데 너무 어려워서 DP 먼저 풀랭...
+1. [구현](https://github.com/jisungbin/baekjoon/tree/doit/implementation)
 2. [DP](https://github.com/jisungbin/baekjoon/tree/doit/dynamic_programming_1)
 3. [그리디](https://github.com/jisungbin/baekjoon/tree/doit/greedy)
 
